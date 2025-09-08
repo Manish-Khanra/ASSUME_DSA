@@ -33,8 +33,15 @@ If you're contributing to the development of ASSUME, follow these steps:
 1. Clone the repository and navigate to its directory:
 
 ```bash
+
+# Option A — clone this fork (ASSUME_DSA)
+git clone https://github.com/Manish-Khanra/ASSUME_DSA.git
+cd ASSUME_DSA
+
+# Option B — clone the upstream repository
 git clone https://github.com/assume-framework/assume.git
 cd assume
+
 ```
 
 2. Install the package in editable mode:
