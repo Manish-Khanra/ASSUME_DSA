@@ -95,6 +95,12 @@ Follow these steps:
 1. Clone the repository and navigate to its directory:
 
 ```bash
+
+# Option A — work with this fork (recommended for DSA work)
+git clone https://github.com/Manish-Khanra/ASSUME_DSA.git
+cd ASSUME_DSA
+
+# Option B — work with upstream (core ASSUME)
 git clone https://github.com/assume-framework/assume.git
 cd assume
 ```
