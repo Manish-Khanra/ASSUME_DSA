@@ -159,8 +159,8 @@ To explore the provided examples, follow these steps:
 1. Clone the repository and navigate to its directory:
 
 ```bash
-git clone https://github.com/assume-framework/assume.git
-cd assume
+git clone https://github.com/Manish-Khanra/ASSUME_DSA.git
+cd ASSUME_DSA
 ```
 
 2. Quick Start:
